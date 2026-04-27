@@ -31,7 +31,7 @@ const App = () => {
 	}, [inputNumber]);
 
 	return (
-		<div className="min-h-screen bg-[#181818] px-4 py-10">
+		<div className="min-h-screen bg-[#181818] px-4 sm:py-10">
 			<div className="mx-auto w-full max-w-3xl rounded-2xl p-6 text-center sm:p-8">
 				<div>
 					<h1 className="sm:text-4xl text-3xl text-center text-white font-bold">
